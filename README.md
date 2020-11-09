@@ -1,2 +1,0 @@
-# MedApp
-Patient record system
